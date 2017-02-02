@@ -53,5 +53,5 @@ CMD  /data/show_my_idevices.py
 
 ### TO RUN
 ## export ITUNES_UNAME='uname'
-## export ITUNES_PASSWD='pwd'
+## export ITUNES_PASSWD='passwd'
 ## docker run --name show_my_idevices -itd  -p 8000:8000 -e ITUNES_UNAME -e ITUNES_PASSWD show_my_idevices
